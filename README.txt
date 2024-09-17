@@ -8,7 +8,7 @@ You can clone the repository from the following link:
 [Hybrid Vehicle Cost Calculator](https://ubiquitous-funicular-r4r9v5rj66wp25w6r.github.dev/)
 
 ```bash
-git clone https://ubiquitous-funicular-r4r9v5rj66wp25w6r.github.dev/
+git clone https://github.com/Angello-ops/Lab-1
 cd hybrid-vehicle-cost-calculator
 
 download the dependencies by typing the following in termninal
